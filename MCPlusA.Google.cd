@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MCPlusA.Google.XmlGSAFeed">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAQIAAgAABAIoCARAAEgAAACBAAAAAAAAAAA=</HashCode>
+      <FileName>xmlClass\XmlGSAFeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.GSAMetadataItem">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAIAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>xmlClass\GSAMetadataItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.GSAContentItem">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAGAMAAAgAAAAQAAAAAAAACQDAIAgAYAgAAAAAEAAA=</HashCode>
+      <FileName>xmlClass\GSAContentItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.GSAUploader">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAACAAAAAiACAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GSAUpLoad\GSAUploader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.GSAMimeTypes">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\GSAMimeTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.GSAFeedType">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Constants\GSAFeedType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MCPlusA.Google.Constants.GSAAuthMethodTypes">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAIAAAAAAAAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\GSAAuthMethodTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MCPlusA.Google.eLogLevel">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAA=</HashCode>
+      <FileName>GSAUpLoad\GSAUploader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
