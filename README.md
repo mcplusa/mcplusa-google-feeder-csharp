@@ -1,4 +1,4 @@
-mcplusa-google-feeder-csharp
+MC+A Google C# Feeder
 ============================
 
 A C# Library for developing simple feeders to the Google Search Appliance.
