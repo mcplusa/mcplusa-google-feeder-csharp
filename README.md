@@ -33,7 +33,7 @@ A C# Library for developing simple feeders to the Google Search Appliance.
 # Related Projects
 [GSALib C# SDK for Query GSA](http://gsalib.codeplex.com)
 
-Copyright 2013 Michael Cizmar + Associates Ltd.(MC+A)
+Copyright 2007 Michael Cizmar + Associates Ltd.[MC+A](http://www.mcplusa.com/)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
